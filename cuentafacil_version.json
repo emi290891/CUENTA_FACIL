@@ -1,5 +1,5 @@
 {
   "version": "1.0.10",
   "url_instalador": "https://github.com/emi290891/CUENTA_FACIL/releases/download/v1.0.10/CuentaFacil_Setup.exe",
-  "notas": "cambios en las funciones de cancelar deuda seleccionada."
+  "notas": "se agrego opciones de clientes proveedores."
 }
