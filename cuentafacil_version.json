@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "url_instalador": "https://github.com/emi290891/CUENTA_FACIL/releases/download/v1.0.15/CuentaFacil_Setup.exe",
-  "notas": "cambios en impresion de etiquetas de 80mm."
+  "notas": "cambios en impresion de etiquetas sin precios ya que quedo la vercion vieja."
 }
