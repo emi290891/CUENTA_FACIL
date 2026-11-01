@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
-  "url_instalador": "https://github.com/emi290891/CUENTA_FACIL/releases/download/v1.0.17/CuentaFacil_Setup.exe",
-  "notas": "se modifico historial para que se pueda ver completo."
+  "version": "1.0.20",
+  "url_instalador": "https://github.com/emi290891/CUENTA_FACIL/releases/download/v1.0.20/CuentaFacil_Setup.exe",
+  "notas": "cambios en deuda que no dejaban cerrar."
 }
